@@ -8,3 +8,5 @@ Um aplicativo de clima usando HTML, CSS E JavaScript. Pegamos a informação de 
 ## Image do aplicativo após a busca. (São Paulo, 22/03/2026)
 
 <img width="662" height="837" alt="Janela do aplicativo de clima, mostrando a interface após a busca. (São Paulo, 22/03/2026)" src="https://github.com/user-attachments/assets/f3d841ae-f06e-4bd1-aa8b-0bb7478c81bc" />
+
+Créditos dos icones ao autor.
